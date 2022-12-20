@@ -1,4 +1,15 @@
-# ParkBee Developer Assessment
+# Solution for ParkBee Developer Assessment
+
+Dear Parkbee Developers
+
+I've used the same dotnet solution, running the application should be straighforward. 
+Please keep in mind that it's not a complete solution, due to time constraints I had to skip a lot of code improvements.
+
+Best regards,
+Ahmet Gunec
+
+---------------------------------------------------
+# Original Assessment
 
 We'd like to thank you for taking the time to do our developer assessment. It consists of a [coding test](#coding-test) and [technical questions](#technical-questions).
 
