@@ -3,7 +3,7 @@
 Dear Parkbee Developers
 
 I've used the same dotnet solution, running the application should be straighforward. 
-Please keep in mind that it's not a complete solution, due to time constraints I had to skip a lot of code improvements.
+Please keep in mind that it's not a complete solution, due to time constraints I had to skip a lot of code improvements and unit tests.
 
 Best regards,
 Ahmet Gunec
